@@ -653,7 +653,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Kalman\Kalman.csproj">
-      <Project>{65fed08b-d2b2-4b49-9257-3de1954d1675}</Project>
+      <Project>{dcbddd1b-928a-4047-bc20-93fd4b8fbf60}</Project>
       <Name>Kalman</Name>
     </ProjectReference>
   </ItemGroup>
