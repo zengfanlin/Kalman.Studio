@@ -7,8 +7,8 @@
     <ProjectGuid>{DCBDDD1B-928A-4047-BC20-93FD4B8FBF60}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Kalman123</RootNamespace>
-    <AssemblyName>Kalman123</AssemblyName>
+    <RootNamespace>Kalman</RootNamespace>
+    <AssemblyName>Kalman</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -104,6 +104,7 @@
     <Compile Include="Data\SchemaObject\SOCommandParameter.cs" />
     <Compile Include="Data\SchemaObject\SODatabase.cs" />
     <Compile Include="Data\SchemaObject\SOIndex.cs" />
+    <Compile Include="Data\SchemaObject\SOMethod.cs" />
     <Compile Include="Data\SchemaObject\SOSchemaBase.cs" />
     <Compile Include="Data\SchemaObject\SOTable.cs" />
     <Compile Include="Data\SchemaObject\SOTableViewBase.cs" />
